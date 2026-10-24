@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+
+# Temporary and generated files
+*.tmp
+*.log
+node_modules/
+dist/
+build/
